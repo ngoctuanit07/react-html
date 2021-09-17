@@ -1,6 +1,6 @@
 import "./App.css";
 import React from "react";
-import Master from "./component/master";
+import Master from "./component/layout/master";
 class App extends React.Component {
   render() {
     return (
